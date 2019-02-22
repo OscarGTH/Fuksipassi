@@ -116,8 +116,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void adjustFontScale(Configuration configuration) {
         if (configuration.fontScale > 1.30) {
-          //  LogUtil.log(LogUtil.WARN, TAG, "fontScale=" + configuration.fontScale); //Custom Log class, you can use Log.w
-           // LogUtil.log(LogUtil.WARN, TAG, "font too big. scale down..."); //Custom Log class, you can use Log.w
+        
             configuration.fontScale = (float) 1.30;
             DisplayMetrics metrics = getResources().getDisplayMetrics();
             WindowManager wm = (WindowManager) getSystemService(WINDOW_SERVICE);
