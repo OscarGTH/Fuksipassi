@@ -1,5 +1,5 @@
 # Fuksipassi
-Android app to track and complete university Freshman challenges
+Android app to track and complete university freshman challenges
 
 You can find pictures from the folder called "Fuksipassi screenshots".
 
