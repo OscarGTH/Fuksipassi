@@ -1,0 +1,82 @@
+﻿Title: Fuksiaiset
+Description: Kakkosten fukseille järjestämä rastirata, jonka aikana jokaisesta fuksista kuoriutuu todellinen opiskelija! Lisää tietoa tapahtumasta fb:ssä.
+
+Title: Fuksimökki
+Description: Rakkaan ainejärjestömme fukseille järjestämä perinteeksi muodostunut mökkireissu Petäjävedelle. Täällä on hyvä tutustua uusiin to be -kollegoihisi ja luoda ystävyyssuhteita hupaisassa ja toiminnallisessa ympäristössä! Lisätietoa ensimmäisen viikon aikana!
+
+Title: Fuksisauna
+Description: Ensimmäisen ”virallisen” opiskelupäivän päätteeksi on ensisijaisen tärkeää käydä kanssafuksien, tutoreiden sekä Pedagon hallituksen seurassa Opinkivellä saunomassa ja vastaanottamassa elintärkeitä tietopläjäyksiä alkusyksyn suunnitelmista.
+
+Title: Kampuskierros
+Description: Tutustutaan ensimmäisellä viikolla tutoreiden opastuksella Seminaarimäen ja Mattilanniemen kampuksiin, jonka päätteeksi käydään yhdessä syömässä.
+
+Title: Kastajaiset
+Description: Ansaitaksenne pukeutua sairaansiisteihin, ferrarinpunaisiin haalareihimme, teidän on suoritettava kunniakkaat tehtävät ympäri kaupunkia. Lisää fb:ssä!
+
+Title: Kolmiot
+Description: Legendaariset opiskelijajuhlat kolmiot järjestetään joka kuukausi kolmessa eri illanviettoravintolassa. Näitä ei kannata missata ihan vaan sen kolmionmuotoisen haalarimerkinkin takia.
+
+Title: Liikuntavuoro
+Description: Pedagon liikuntavuorolla pääsee pelailemaan eri joukkuepelejä sekä tutustumaan samanhenkisiin opiskelijatovereihin.
+
+Title: Pedagon kokous
+Description: Osallistu yhteen iki-ihanan ainejärjestömme kokouksista, joista ilmoitellaan yleensä Pedagon fb:ssä.
+
+Title: Pedagon pesis
+Description: Liikunnan rakennuksen kentällä fukseille suunnattu pesisturnaus. Ei väliä, vaikket olisi koskaan pitänyt pesismailaa kädessäsi, tuu tänne kokeilemaan ja pitämään hauskaa yhdessä!
+
+Title: PJ-risteily
+Description: Osallistu huisin hauskaan menoon pikkujouluristeilyllä yhdessä eri yliopistojen opettajaopiskelijoiden kanssa. Lisää fb:ssä!
+
+Title: Poikkarit
+Description: Osallistu poikkitieteellisiin haalaribileisiin syksyn aikana tai vaikka jo ensimmäisellä viikolla! Ei vaadi haalareita!
+
+Title: Pedago ry:n 54. vuosijuhlat
+Description: Osallistu hurmaavan ainejärjestömme arvokkaisiin vuosijuhliin. Lisätietoa fb:ssä.
+
+Title: Sillis
+Description: Vuosijuhlien jälkeisenä päivänä on hyvä ottaa rennosti jo tutuksi tulleiden opiskelukavereiden kanssa mökillä. Hyvää ruokaa ja juomaa tarjolla!
+
+Title: Sitsit
+Description: Osallistu Pedagon järjestämille sitseille eli akateemiseen pöytäjuhlaan. Näitä ei kannata missata!
+
+Title: Approt
+Description: Osallistu kauppakadun approille. Kuva tai haalarimerkki käy todisteena suorituksesta.
+
+Title: Itsenäisyyspäivän soihtukulkue
+Description: Suorituksen saamiseksi ota jokin vastuurooli soihtukulkueen järjestämisestä.
+
+Title: Leffa/hengailuilta
+Description: Osallistu tutoreiden järjestämälle kuukausittaiselle leffa/hengailuillalle.
+
+Title: Beerbong-turnee
+Description: Ota mittaa muista ikonisessa opiskelijalajissa, beerpongissa. Suorituksen saaminen vaatii turnaukseen osallistumisen.
+
+Title: Panosta sitsiasuun
+Description: Suorituksen saamiseksi esittäydy loppuun mietityssä kostyymissäsi tai näytä kuva siitä tutorille.
+
+Title: Kampuspiknik
+Description: Osallistu kampuspiknikille.
+
+Title: Haalareissa luennolle/demolle
+Description: Mene luennolle tai demolle pukeutuneena opiskelijahaalareihin ja esitä todisteena kuva tai video tapahtuneesta. Voit myös kertoa miksi näin sattui tapahtumaan.
+
+Title: Vietä iltaa kotiryhmäsi jäsenien kanssa
+Description: Ehdota/järjestä ryhmäläisillesi jotain hengailua tai muuta tekemistä opiskeluajan ulkopuolella. Myös tutor voi järjestää hengailuillan ja paikalle saapuneet saavat suorituksen. Kuva/video todisteeksi tarvittaessa.
+
+Title: Saa kurssista arvosanaksi 5
+Description: Suorituksen hyväksymisen edellyttää, että kurssin arvosanajakauma on 1-5 ja saatu arvosana on 5.
+
+Title: Tilaa Pedago-drinkki
+Description: Käy virkistämässä mieltäsi herkullisella Pedago-drinkillä Passionissa. Kuva suorituksesta.
+
+Title: Ruokaile seuraavissa yliopistoravintoloissa
+Description: Suoritukseen lasketaan seuraavat ravintolat: Piato, Lozzi, Maija, Syke, Libri, Uno, Ylistö, Rentukka ja Ilokivi. Kuitit ruokailusta tai tunnistettava kuva todisteena.
+
+
+
+
+
+
+
+

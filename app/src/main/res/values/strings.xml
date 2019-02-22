@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fuksipassi</string>
+    <string name="popupBtnYes">Hyväksy</string>
+    <string name="popupBtnNo">Peruuta</string>
+    <string name="action_summary">Yhteenveto</string>
+    <string name="action_calendar1">Virallinen kalenteri</string>
+    <string name="action_calendar2">Pedagon kalenteri</string>
+    <string name="action_info">Ohje</string>
+    <string name="action_refresh">Päivitä</string>
+
+    <string name="usage_instructions">Suorittaaksesi fuksipassin tapahtumia, käy tapahtumassa ja pyydä paikalla olevalta tuutorilta kuittaus paikallaolostasi tai suorituksestasi. Jos haluat kuittauksen jälkikäteen, esitä todisteena suorituksesta kuva. \n \nLunastaaksesi fuksihaalarimerkin, palauta vähintään 50%:sti täytetty fuksipassi syksyn lopuksi näyttämällä yhteenveto sivulla sijaitsevaa QR-koodia tuutoreille.
+
+        Yli 90%:sti täytettyä fuksipassia vastaan myönnetään fuksimerkin lisäksi <b> legendaarinen superfuksimerkki. </b> </string>
+    <string name="contact_info">Ota yhteyttä kehittäjään: fuksipassi.sovellus@gmail.com </string>
+</resources>
